@@ -2,6 +2,8 @@ ROI contains two files that create a data visualization graph to illustrate rela
 
 To use the graph:
 
+Download roi_1.htm and roi_1.js into the same folder.
+
 Open roi_1.htm in a web browser.
 
 See sample below: 
